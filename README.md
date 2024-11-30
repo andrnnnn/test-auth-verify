@@ -1,4 +1,4 @@
-# Test Auth App
+# Test Auth App with React and Express JS
 
 ## Cara Instalasi & Menjalankan Aplikasi
 
